@@ -1,6 +1,0 @@
-id,username,password,age
-1,lisi,123,23
-2,wangwu,456,21
-3,zhaoliu,666,26
-4,xiaohong,777,24
-5,xiaoming,999,28
