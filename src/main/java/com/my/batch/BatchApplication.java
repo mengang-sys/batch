@@ -10,7 +10,7 @@ public class BatchApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(BatchApplication.class, args);
-        System.out.println("six");
+        System.out.println("1");
     }
 
 }
